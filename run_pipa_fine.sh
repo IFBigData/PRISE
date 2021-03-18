@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python main.py --manualSeed=5312  --dataset=pipa_fine --log-filename=exp_final/pipa_fine.txt

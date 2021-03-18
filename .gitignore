@@ -1,0 +1,6 @@
+*.npy
+*.pth
+*.pyc
+*.txt
+.idea/*
+

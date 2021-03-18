@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python main.py --manualSeed=7636  --dataset=pipa_coarse --log-filename=exp_final/pipa_coarse.txt

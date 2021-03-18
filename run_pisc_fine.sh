@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python main.py --manualSeed=3431  --dataset=pisc_fine --log-filename=exp_final/pisc_fine.txt
